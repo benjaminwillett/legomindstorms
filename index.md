@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Lego Mindstorms Pages
 
-You can use the [editor on GitHub](https://github.com/distortenterprises/legomindstorms/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LEGO MINDSTORMS EV3 makes building, programming and commanding your own LEGO robots smarter, faster, and more fun than ever.
 
 ### Markdown
 
